@@ -1,0 +1,37 @@
+body{
+	background-color: green;
+
+}
+input[type=number]{
+	border: 0px;
+	border-radius: 30px;
+	width: 105px;
+	height: 50px;
+	outline-style: none;
+	font-size: 30px;
+	color: #616060;
+}
+form{
+	width: 100%;
+	
+	
+	
+	background-color: ghostwhite;
+}
+button{
+	padding: 10px 24px;
+	width: 300px;
+	background-color: green;
+	border-radius: 50px;
+	color: white;
+}
+button:hover{
+	background-color: lightblue;
+}
+p{
+	font-size: 80px;
+	font-weight: bold;
+}
+label{
+	font-size: 30px;
+}
